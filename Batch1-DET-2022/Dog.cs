@@ -6,12 +6,11 @@
 
 //namespace Batch1_DET_2022
 //{
-//    internal class TestCircle
+//    public class Dog : Animal
 //    {
-//        public static void Main()
+//        public override string ToString()
 //        {
-//            Circle e = new Circle(20);
-//            Console.WriteLine($"The area of Circle = {e.AreaOfCircle()}");
+//            return "bow-bow";
 //        }
 //    }
 //}

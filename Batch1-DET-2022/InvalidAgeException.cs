@@ -6,12 +6,11 @@
 
 //namespace Batch1_DET_2022
 //{
-//    internal class TestCircle
+//    internal class InvalidAgeException : Exception
 //    {
-//        public static void Main()
+//        public InvalidAgeException(string msg) : base(msg)
 //        {
-//            Circle e = new Circle(20);
-//            Console.WriteLine($"The area of Circle = {e.AreaOfCircle()}");
+
 //        }
 //    }
 //}
