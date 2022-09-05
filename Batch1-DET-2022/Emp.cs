@@ -13,7 +13,8 @@
 //        string name;
 //        string dept;
 //        double sal;
-//        DateTime doj;
+//       // DateTime doj;
+//        public DateTime doj { get; set; }
 
 //        //constructor - is a function used to init object data
 //        //has the same name as classname, no ret type
